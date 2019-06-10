@@ -1,0 +1,102 @@
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.containertwo {
+
+  text-align: center;
+  color: white;
+}
+
+
+.bottom-left {
+  position: absolute;
+  bottom: 100px;
+  left: 18px;
+  font-family: 'PublicoBannerExtrabold';
+  font-size: 26px;
+  color:##fcf7f7;
+    display: block;
+    font-weight: bold;
+    line-height: 30px;
+    
+    
+}
+
+.greyed {
+    filter: grayscale(22%);
+    filter: contrast(52%);
+}
+.portal {
+    position: absolute;
+    left: 270px;
+    bottom: -40px;
+    font-family:    'PublicoBannerExtrabold';
+}
+
+.belichick {
+      position: absolute;
+  bottom: 149px;
+  left: 18px;
+  font-family: 'PublicoBannerExtrabold';
+  font-size: 26px;
+  color:##fcf7f7;
+    display: block;
+    font-weight: bold;
+    line-height: 30px;
+    
+}
+
+.interactive-image {
+            filter: grayscale(22%);
+    filter: contrast(52%);
+}
+
+.interactive-imagen {
+            filter: grayscale(22%);
+    filter: contrast(52%);
+}
+
+img.interactive-image:hover {
+    height: 310px;
+    filter: brightness(150%);
+        filter: grayscale(9%);
+    filter: contrast(52%);
+    
+}
+
+img.interactive-imagen:hover {
+    height: 444px;
+    filter: brightness(150%);
+        filter: grayscale(9%);
+    filter: contrast(52%);
+    
+}
+
+.portall {
+        position: absolute;
+    left: 270px;
+    bottom: -268px;
+    font-family: 'PublicoBannerExtrabold';
+}
+
+.finale {
+    filter: grayscale(12%);
+        filter: contrast(52%);
+            filter: brightness(50%);
+}
+
+.belichicc {
+          position: absolute;
+  bottom: 117px;
+  left: 1px;
+  font-family: 'PublicoBannerExtrabold';
+  font-size: 26px;
+  color:##fcf7f7;
+    display: block;
+    font-weight: bold;
+    line-height: 30px;
+}
